@@ -80,3 +80,4 @@ print('Resultado:', SumS)
 
 print('Metodo 2:',tiempo2,'s')
 print('Resultado:', Res)
+ 
